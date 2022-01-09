@@ -1,6 +1,6 @@
-#TUGAS BESAR DDP PRAKTIKUM
 
-                        Game SOS BY A2Djaya
+
+                                                 Game SOS BY A2Djaya
                         
  Petunjuk penggunaan :\
  1.Download file as a zip\
