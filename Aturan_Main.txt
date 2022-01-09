@@ -1,0 +1,54 @@
+
+							    Aturan Main SOS ala A2Djaya
+
+	
+ 1. Demi menjaga kestabilan program diharapkan masing-masing player memasukan Nickname dengan panjang 
+    maximal 8 karakter tanpa spasi.
+
+ 2. Jika mode single player(Vs.Bot) maka nama dari bot akan disesuaikan berdasarkan tingkat kesulitan yang diplih
+    EDDITH untuk bot level mudah, JARVIS untuk bot level normal, dan ULTRON untuk bot level susah.
+ 
+ 3. Untuk Player, tidak diperbolehkan untuk memasukan karakter lain selain S, s, O, o, N, n (‘N’ dan 'n' tandanya pemain menyerah)
+ 
+ 4. Pada permainan ini ada opsi menyerah dengan menginputkan karakter ‘N’ atau 'n' saat memilih SOS. Jika player mengisi dengan ‘N’
+    atau 'n' maka otomatis player tersebut akan kalah dan game berakhir dengan kemenangan pihak lawan yang tidak menyerah.
+	
+ 5. Inputan petak harus sesuai dan tidak lebih atau kurang dari jenis papan yang dipilih serta tidak boleh memilih petak yang sudah
+    terisi. Misalkan papannya 3x3 maka inputan petak haruslah di antara 1 dan 9, jika player memilih petak yang sudah terisi maka player akan
+    diminta untuk memasukan petka yang lain.
+  
+ 6. Jika player mendapatkan SOS secara beruntun baik secara vertikal, horizontal, maupun diagonal maka player tersebut akan mendapatkan 1 point.
+    Dan giliran tetap ada pada player tersebut sampai player tidak lagi mendapat SOS beruntun.
+
+ 7. Setiap player mendapat satu kali giliran kecuali player tersebut mendapat SOS beruntun.
+
+ 8. Player dinyatakan menang, jika mendapatkan poin yang lebih banyak dibandingkan dengan player lainnya. Player dinyatakan kalah, jika mendapatkan
+    poin yang lebih sedikit dibandingkan dengan player lainnya.
+	
+ 9. Pada mode player vs player terdapat fitur waktu, dimana player punya waktunya masing-masing (seperti permainan catur). Waktu ini akan berkurang
+    seiring proses penginputan SOS dan petak pada masing-masing giliran player. Sebagai ilustrasi pada giliran pertama player 1 masih punya 3 menit
+    utuh dan pada saat proses input pada giliran tersebut player satu menghabiskan waktu 15 detik maka waktu 3 menit tadi akan dikurangi oleh
+    waktu yang dihabiskan saat proses input, sehinggap pada giliran player 1 selanjutnya dia hanya punya 2 menit 45 detik tersisa.Hal ini juga 
+    berlaku untuk player 2.
+	
+ 10.Ingat pada saat proses input waktu tetap berjalan walapun pada layar game waktu masih tetap (waktu akan berkurang setelah proses input)
+    Jadi maksimalkan waktu dengan baik.   
+ 
+ 11.Jika Salah satu player kehabisan waktu miliknya maka giliran selanjutnya akan beralih kelawannya yang masih punya sisa waktu.Lalu giliran 
+    selanjutnya pun demikian, player yang masih punya sisa waktu lah yang berhak terus melanjutkan permainan.
+
+ 12.Jika kedua player kehabisan waktu maka game akan berakhir dan pemenang akan ditentukan berdasarkan point terakhir yang didapt oleh masing-masing
+    Player.
+
+ 13.Waktu yang diberikan kepada masing-masing player sama rata. 3 menit untuk papan 3x3, 5 menit untuk papan 6x6, dan 9 menit untuk papan 9x9.
+	
+ 14.Setiap player yang menang akan ditulis dileaderboard 
+    (kecuali yang menang dengan cara lawan menyerah atau yang menangnya bot, hal itu tidak akan dituliskan dileaderboard)
+ 
+ 15.Permainan akan berkahir setelah semua Petak terisi atau salah satu pihak ada yang menyerah atau kedua player kehabisan waktu (mode vs player).
+    Dan pemenang ditentukan berdasarkan point tertinggi.Jika kedua player memiliki point yang sama, maka game berkahir draw.
+
+
+	
+
+								Press any key to continue........
