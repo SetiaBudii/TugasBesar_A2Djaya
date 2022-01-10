@@ -5,7 +5,7 @@
  Petunjuk penggunaan :\
  1.Download file as a zip\
  2.Ektrak file yang didownload tadi\
- 3.Buka file SOS_Game_A2Djaya_UI Bagus.exe atau bisa juga running file SOS_Game_A2Djaya_UI Bagus.c di Dev-c++      
+ 3.Buka file SOS_Game_A2Djaya_Final.exe atau bisa juga running file SOS_Game_A2Djaya_Final.c di Dev-c++      
  4.Dan terakhir tinggal main Gamenya
  
  
