@@ -10,10 +10,16 @@
  
  
  
- *Note:
-  File SOS_Game_A2Djaya_BETA.exe adalah game SOS yang kami ciptakan jauh sebelum SOS_Game_A2Djaya_UI Bagus.exe 
-  sehingga pada game versi BETA masih banyak fitur yang belum dimasukan. Oleh sebab itu disarankan memainkan SOS_Game_A2Djaya_UI Bagus.exe
-  agar semua fitur game yang kami buat bisa mainkan.
+ *Note:   
+ Version SOS_Game_A2Djaya_BETA ( BETA ):   
+ File SOS_Game_A2Djaya_BETA.exe adalah game SOS yang kami ciptakan jauh sebelum SOS_Game_A2Djaya_UI Bagus.exe 
+ sehingga pada game versi BETA masih banyak fitur yang belum dimasukan.     
+ 
+ Version SOS_Game_A2Djaya_UI Bagus:      
+ Pada game ini fitur dan tampilan sudah dioptimalkan.Namun,terdapat bug pada highscore.
+ 
+ Version SOSGAME_A2Djaya_Final:     
+ Pada versi ini Game fitur highscore sudah di fixing, sehingga bisa dikatakan versi ini yang terbaik dari dua versi sebelumnya.
   
   
   Creator:    
